@@ -1,0 +1,28 @@
+{
+    "id": "CDC335DC",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1675501956969.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "eaa498175aa44a43a674d5731991104b",
+        "name": "covid_analysis_list",
+        "title": "covid_analysis_list",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675501956969,
+    "read_only": false,
+    "read_only_alternatives": []
+}
